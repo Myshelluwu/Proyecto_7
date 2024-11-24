@@ -8,14 +8,14 @@ Este es un proyecto básico que sirve como ejemplo para publicar una página web
 
 ## Cómo desplegar
 1. Clona el repositorio en tu cuenta de GitHub.
-git clone 
+git clone https://github.com/Myshelluwu/Proyecto_7.git
 2. Navega al directorio del proyecto:
-cd
+cd Proyecto_7
 3. Abre el archivo index.html en cualquier navegador:
 start index.html
 
 ## Enlace público
-Puedes visitar la página aquí: 
+Puedes visitar la página aquí: https://myshelluwu.github.io/Proyecto_7/
 
 ## Autor
 Creado por- [Myshelluwu](https://github.com/Myshelluwu)
