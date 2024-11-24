@@ -3,7 +3,7 @@ Este es un proyecto básico que sirve como ejemplo para publicar una página web
 
 ## Características
 - Página web básica con contenido de prueba.
-- Uso de etiquetas HTML estándar como <h1>, <h2> y <p>.
+- Uso de etiquetas HTML estándar como h1, h2 y p.
 - Compatible con dispositivos móviles mediante la etiqueta de viewport.
 
 ## Cómo desplegar
